@@ -32,6 +32,12 @@
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
 
+## Bangladesh
+- [Ecology](https://ecologi.com/)
+- [Global Giving](https://www.globalgiving.org/)
+- [Winrock](https://www.winrock.org/seeds-of-hope-in-bangladesh/)
+- [Heifer](https://www.heifer.org/about-us/where-we-work/bangladesh.html)
+- [Earth Day](https://www.earthday.org/campaign/the-canopy-project/)
 
 ## Canada
 
